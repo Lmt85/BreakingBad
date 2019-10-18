@@ -1,2 +1,2 @@
 # BreakingBad
-Videojuego de Breaking Bad.
+Java Breaking Bad game.
